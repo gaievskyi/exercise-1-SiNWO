@@ -1,1 +1,3 @@
 przyklad
+
+a to inny commit ktory koliduje sie z branchem `main`
